@@ -22,8 +22,6 @@
 	
 	// get our test input file
 	NSString *inputPath = [[NSBundle mainBundle] pathForResource:@"input" ofType:@"mov"];
-//	inputPath = [[NSBundle mainBundle] pathForResource:@"IMG_1414" ofType:@"mov"];
-//	inputPath = [[NSBundle mainBundle] pathForResource:@"IMG_0930" ofType:@"mov"];
 	
 	// create a path for our reversed output video
 	NSString *documentsPath = [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) objectAtIndex:0];
