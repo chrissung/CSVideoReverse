@@ -3,6 +3,9 @@ CSVideoReverse
 
 A simple Objective-C class for creating a reversed (silent) version of a video file. Reversal occurs in its own thread, input frames are read in passes to reduce memory usage, and a delegate can be called upon completion or error.
 
+![Input video](https://github.com/chrissung/CSVideoReverse/blob/master/input.gif)
+
+![Output video](https://github.com/chrissung/CSVideoReverse/blob/master/output.gif)
 
 Usage Example
 -------------
