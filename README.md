@@ -45,7 +45,7 @@ Then implement the delegate method of the class to get the result:
 
 Example Project
 ---------------
-Build the XCode project at `example/CSVideoReverse.xcodeproj` to see it in action - you may want to sub in your own .mov or .mp4 file in `example/CSVideoReverse/ViewController.m`.  At some point, I'll add a UIImagePickerController so you can simply choose from Camera Roll instead of having to reference an asset within the app bundle itself.s
+Build the XCode project at `example/CSVideoReverse.xcodeproj` to see it in action with reverse video playback - you may want to sub in your own .mov or .mp4 file in `example/CSVideoReverse/ViewController.m`.  At some point, I'll add a UIImagePickerController so you can simply choose from Camera Roll instead of having to reference an asset within the app bundle itself.
 
 Licenses
 --------
